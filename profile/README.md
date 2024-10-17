@@ -1,6 +1,6 @@
-## Welcome to my BSc (Hons) Software Engineering Degree repo dump
+# Welcome to my BSc (Hons) Software Engineering Degree repo dump
 
-# Course specification
+## Course specification
 
 A breakdown of all units accross my degree
 Level 4 (Year One): Programming (80%), Mathematics for Computing (74%), Computing & Society (73%), Data Management (67%), Computer Fundamentals (61%), and Introduction to Reliable Computing Systems (47%)
