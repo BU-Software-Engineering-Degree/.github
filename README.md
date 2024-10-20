@@ -1,6 +1,6 @@
-## Welcome to my BSc (Hons) Software Engineering Degree repo dump
+# Welcome to my BSc (Hons) Software Engineering Degree repo dump
 
-# Course specification
+## Course specification
 
 A breakdown of all units accross my degree
 - Level 4 (Year One):
@@ -11,7 +11,7 @@ A breakdown of all units accross my degree
   - Technolocial Innovations in Computing, Data Structures and Algorithms, and Software Business
 - Level 6 (Final Year): Software Quality Assurance, Systems Development, TBC, TBC, & Individual Project
 
-# About tags
+## About tags
 
 Each repository will be tagged to better explain when they occurred.
 - Levels:
