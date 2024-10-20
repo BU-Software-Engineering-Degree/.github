@@ -15,10 +15,10 @@ A breakdown of all units accross my degree
 
 Each repository will be tagged to better explain when they occurred.
 - Levels:
-  - level4: first year of BU
-  - level5: second year of BU
-  - levelp: placement year of BU
-  - level6: final year of BU
+  - level4: first year
+  - level5: second year
+  - levelp: placement year
+  - level6: final year
 - Semesters:
   - semester1: first semester of the year (Sep - Jan)
   - semester2: second semester of the year (Jan - May)
