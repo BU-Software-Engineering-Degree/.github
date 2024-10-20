@@ -1,4 +1,4 @@
-# Welcome to my BSc (Hons) Software Engineering Degree repo dump
+## Welcome to my BSc (Hons) Software Engineering Degree repo dump
 
 # Course specification
 
